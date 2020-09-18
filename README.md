@@ -1,6 +1,6 @@
 # Student Performance Prediction
 
-Analysis on the UCI Machine Learning Student Performance Dataset (https://archive.ics.uci.edu/ml/datasets/Student+Performance#).<br>
+Analysis on the UCI Machine Learning _Student Performance Dataset_ (https://archive.ics.uci.edu/ml/datasets/Student+Performance#).<br>
 The dataset contains students' achievements collected in two Portuguese Secondary schools, _Gabriel Pereira_ and _Mousinho da Silveira_. There are information related to Mathematics and Portuguese classes.<br>
 Binary classification is performed to predict students' outcome at the end of the year (_pass_ or _fail_).<br>
 
